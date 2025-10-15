@@ -1,1 +1,1 @@
-Autor: Imię Nazwisko
+Kurs: DevOps
